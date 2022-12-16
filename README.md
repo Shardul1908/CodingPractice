@@ -1,2 +1,2 @@
-# LeetCodesAndGFGs
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# Coding Practice.
+Collection of all the coding problems I have done.
